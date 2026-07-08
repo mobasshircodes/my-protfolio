@@ -1,0 +1,48 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #fff8f3;
+    font-family: "Open Sans", sans-serif;
+    
+
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: auto;
+    padding: 15px;
+    align-items: center;
+   
+}
+.nav-list{
+    display: flex;
+    gap: 30px;
+align-items: center;
+}
+
+.nav-list li {
+    list-style: none;
+
+}
+samp{
+    color: red;
+}
+.btn{
+    background-color:#fd6e0aFF;
+    outline: 0;
+    border: 0;
+    color: white;
+    padding: 8px;
+    font-size:20px;
+    cursor: pointer;
+}
+.hero{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: auto;
+    padding-top: 100px;
+}
