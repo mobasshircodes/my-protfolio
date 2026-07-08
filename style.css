@@ -45,4 +45,62 @@ samp{
     max-width: 1000px;
     margin: auto;
     padding-top: 100px;
+    align-items: center;
+}
+.hero-content{
+    height: 500px;
+    width: auto;
+    align-items: center;
+ 
+}
+img{
+    height: 500px;
+    width: auto;
+
+}
+.text{
+    padding-top: 100px;
+}
+.great{
+    font-size: 30px;
+    display: block;
+}
+.my-name{
+    font-size: 60px;
+    display: block;
+    padding-bottom: 18px;
+}
+.some{
+     display: block;
+    padding-bottom: 12px;
+
+}
+.btn-continer{
+  margin-top: 10px;
+  display: flex;
+  gap: 20px;
+}
+.btn-1{
+    outline: 0;
+    padding: 10px;
+    border: 0;
+    font-size: 20px;
+    background-color:#fd6e0aFF;
+    color: white;
+    border-radius: 4px;
+}
+.btn-2{
+    outline: 0;
+    padding: 10px;
+    border: 1px solid #fd6e0aFF;;
+    font-size: 20px;
+    background-color:white;
+    color: #fd6e0aFF;;
+    border-radius: 4px;
+}
+.developer{
+    position: relative; 
+    top: -600px;
+    left: 50px;
+    height: 600px;
 }
